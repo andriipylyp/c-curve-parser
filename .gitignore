@@ -1,2 +1,5 @@
 data
 main.exe
+build
+dist
+main.spec
